@@ -60,13 +60,6 @@ The raw data had several quality issues that were fixed before analysis:
 
 Python · pandas · NumPy · matplotlib · seaborn · SQLite (SQL)
 
-## How to Run
-
-1. Download the dataset from Kaggle and place `startup_funding.csv` in the
-   same folder as the notebook.
-2. Open `Indian_Startup_Funding_Analysis.ipynb` in Jupyter or Google Colab.
-3. Run all cells from top to bottom.
-
 ## Limitations
 
 - A portion of funding amounts are undisclosed, so totals reflect disclosed
